@@ -1,0 +1,4 @@
+We have used mainly bootstrap to design this page. A small practice for bootstrap. We can additionally apply animations to this page.
+
+Used Language: CSS, Bootstrap
+Date: 2 Aug 2018

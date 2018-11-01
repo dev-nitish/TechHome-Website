@@ -1,0 +1,58 @@
+body{
+	margin-top: 100px;
+	font-size: 16px;
+}
+
+h1{
+	font-family: Poppins;
+}
+
+.navbar-default{
+	background-color: #fff ;
+	overflow: none;
+}
+
+.navbar-right li:hover{
+	background-color: gray;
+}
+
+.navbar-brand{
+	color: black !important;
+	font-weight: bold;
+}
+
+.navbar-brand:hover{
+	color: gray !important;
+}
+
+
+#testimonial{
+	background:#f1f1f1;
+  	padding: 50px 0 30px 0;
+  	text-align:center;
+  	margin-top:40px;
+}
+
+#testimonial p{
+	color: black;
+	font-size: 32px;
+	font-family: 'Josefin Sans'
+
+}
+
+#testimonial #customer{
+	color: #666;
+}
+
+#form{
+	background: url(../img/google3.png);
+	padding: 40px;
+	color: #fff;
+	border-top: #333 7px solid;
+	border-bottom: #333 7px solid;
+}
+
+footer{
+	text-align: center;
+	font-size: 10px;
+}
